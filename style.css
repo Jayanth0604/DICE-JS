@@ -1,0 +1,31 @@
+body{
+    background-color: lavender ;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    text-transform: capitalize;
+}
+.player{
+float: left;
+width: 100%;
+text-align: center;
+}
+.player1{
+    float: left;
+    width: 50%;
+    
+}
+.player2{
+    float: right;
+    width: 50%;
+}
+img.image1 {
+    border-radius: 25px;
+    width: 25%;
+
+}
+img.image2 {
+    border-radius: 25px;
+    width: 25%;
+}
